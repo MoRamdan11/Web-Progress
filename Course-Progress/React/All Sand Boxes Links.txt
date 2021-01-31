@@ -1,0 +1,29 @@
+1- Javascript Expressions in JSX Practice
+https://codesandbox.io/s/javascript-expressions-in-jsx-practice-forked-gj1yn
+
+2- React Styling Practice
+https://codesandbox.io/s/react-styling-practice-forked-kbx88
+
+3- React Components Practice
+https://codesandbox.io/s/react-components-practice-forked-rp6cz
+
+4- Javascript ES6 Import, Export and Modules Practice
+https://codesandbox.io/s/es6-importexport-practice-forked-435ku
+
+5-Keeper App Part 1 Challenge
+https://codesandbox.io/s/keeper-app-part-1-starting-forked-0bepd
+
+6-React Props Practice
+https://codesandbox.io/s/react-props-practice-forked-ug4j8
+
+7-Mapping Data to Components Practice
+https://codesandbox.io/s/mapping-components-practice-forked-xh9u9
+
+8-Javascript ES6 Arrow functions
+https://codesandbox.io/s/es6-arrow-functions-forked-02ol7
+
+9-Keeper App Project - Part 2
+https://codesandbox.io/s/keeper-app-part-2-starting-forked-tbgld
+
+10-Conditional Rendering Practice
+https://codesandbox.io/s/conditional-rendering-practice-forked-zqnth
